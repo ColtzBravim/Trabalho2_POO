@@ -1,0 +1,6 @@
+Dataset: news 
+Path: /data/datasets/news-tiny/train.txt 
+classificador: nc
+Tempo de treino: 0.0023 
+Tempo de teste: 0.0019 
+Acuracia: 22.22 
